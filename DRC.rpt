@@ -1,0 +1,18 @@
+** Drc report for DC Motor Speed Controller.kicad_pcb **
+** Created on 2026-05-21T13:44:44+0530 **
+
+** Found 2 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.7500 mm, 66.2500 mm): Segment on Edge.Cuts
+    @(149.8800 mm, 71.6200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.7500 mm, 66.2500 mm): Segment on Edge.Cuts
+    @(166.1200 mm, 71.6200 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
